@@ -35,11 +35,15 @@ header{
 }
 
 header h1{
-  text-align: left;
+  text-align: center;
   font-family: fantasy;
   font-size: 36px;
   padding-left: 5px;
 
+}
+
+#indexh1{
+  text-align: left;
 }
 
 #central{
